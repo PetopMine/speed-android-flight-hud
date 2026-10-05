@@ -12,11 +12,15 @@
 
 | 竖屏双面板（姿态仪 + 航向带） | EFIS 综合显示 |
 | --- | --- |
-| ![竖屏](docs/hud_portrait.png) | ![EFIS](docs/hud_efis_portrait.png) |
+| <img width="1260" height="2750" alt="微信图片_20261005215911_50_7" src="https://github.com/user-attachments/assets/89e17652-7a19-463b-bc4e-71735fbc09f2" />
+ | <img width="1260" height="2750" alt="微信图片_20261005215857_49_7" src="https://github.com/user-attachments/assets/6f31a0a1-adfe-419c-922f-cd428554c6cc" />
+|
 
 | 横屏（左 EFIS / 右自定义面板） | 设置界面 |
 | --- | --- |
-| ![横屏](docs/landscape.png) | ![设置](docs/settings.png) |
+| <img width="2750" height="1260" alt="微信图片_20261005213810_45_7" src="https://github.com/user-attachments/assets/a26018de-db66-4408-9818-41477eca4516" />
+ | <img width="1260" height="2750" alt="微信图片_20261005213812_46_7" src="https://github.com/user-attachments/assets/7fc142ad-cd31-431a-b7b1-9a648361c0cd" />
+ |
 
 ---
 
